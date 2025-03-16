@@ -59,8 +59,8 @@ function TheBirthdayLetter() {
                 </button>
             </div>
 
-            <button className="btn" onClick={() => navigate("/letter")}>
-                Go Back
+            <button className="btn" onClick={() => navigate("/")}>
+                That's It!
             </button>
 
             {popupImage && (
